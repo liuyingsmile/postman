@@ -1,0 +1,655 @@
+{
+	"id": "d65475f9-b70f-61d5-d705-75595f748c3d",
+	"name": "yliu copy",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"name": "test",
+			"description": "",
+			"collectionId": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"order": [
+				"73fd1836-18d3-7992-2826-e9403447ccf8"
+			],
+			"owner": "2821561",
+			"folders_order": [],
+			"id": "fb644cb9-bca8-f6a0-9cf6-f50a75d2dda0"
+		},
+		{
+			"collectionId": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"description": "",
+			"folders_order": [],
+			"id": "768e2334-457b-ed04-8958-cce132a459a5",
+			"name": "测试打印流程",
+			"order": [
+				"3b16aee8-677f-3171-488b-279fc4acd084",
+				"c1b07492-c174-0a52-50a5-5a6e0c9add28",
+				"c94df9f2-18e6-f99e-7c12-a18e571b3a48",
+				"c3740e23-195a-e53c-5efe-442caf19b193",
+				"76873469-172f-c7cc-e3b5-5df940215ef9",
+				"54cdb9af-7eff-5396-9f85-d26cf52e1feb"
+			],
+			"owner": "2821561"
+		}
+	],
+	"folders_order": [
+		"fb644cb9-bca8-f6a0-9cf6-f50a75d2dda0",
+		"768e2334-457b-ed04-8958-cce132a459a5"
+	],
+	"timestamp": 1514894160450,
+	"owner": "2821561",
+	"public": false,
+	"requests": [
+		{
+			"id": "3b16aee8-677f-3171-488b-279fc4acd084",
+			"headers": "qnquerystring: 1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nCookie: _ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\n",
+			"headerData": [
+				{
+					"key": "qnquerystring",
+					"value": "1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Cookie",
+					"value": "_ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "zz.kdzs.com/printHandOrders/addOrderInfo?type=0&ordernumber=&recipient=郑磊11&phone=18037883930&tel&sendInfo=sendInfo:fahuoxinxi&senderid=869803&province=浙江省&city=杭州市&county=余杭区&receiveaddress=崇贤街道崇贤镇莲花公寓5-1-502&api_name=save_new_order",
+			"folder": "768e2334-457b-ed04-8958-cce132a459a5",
+			"queryParams": [
+				{
+					"key": "type",
+					"value": "0",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "ordernumber",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "recipient",
+					"value": "郑磊11",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "phone",
+					"value": "18037883930",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "tel",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "sendInfo",
+					"value": "sendInfo:fahuoxinxi",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "senderid",
+					"value": "869803",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "province",
+					"value": "浙江省",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "city",
+					"value": "杭州市",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "county",
+					"value": "余杭区",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "receiveaddress",
+					"value": "崇贤街道崇贤镇莲花公寓5-1-502",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "api_name",
+					"value": "save_new_order",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": "pm.test(\"单条手动新建-订单编号为空\", function () {\n    var jsonData = pm.response.json();\n    pm.expect(jsonData.result).to.eql(100);\n});",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1514880227646,
+			"name": "单条手动新建-订单编号为空",
+			"description": "",
+			"collectionId": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"responses": [],
+			"isFromCollection": true,
+			"collection_id": "d65475f9-b70f-61d5-d705-75595f748c3d"
+		},
+		{
+			"id": "54cdb9af-7eff-5396-9f85-d26cf52e1feb",
+			"headers": "qnquerystring: 1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nCookie: _ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "qnquerystring",
+					"value": "1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Cookie",
+					"value": "_ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "zz.kdzs.com/print/batchSaveKDDLog",
+			"folder": "768e2334-457b-ed04-8958-cce132a459a5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "tradeInfo",
+					"value": "[{\"info\":\"sendInfo:fahuoxinxi\",\"infoCollection\":\"{\\\"bigPen\\\":\\\"571SHHSQ \\\",\\\"jbm\\\":\\\"\\\",\\\"jbd\\\":\\\"浙江省杭州市余杭区\\\"}\",\"kdCode\":\"ZJS\",\"kdId\":203,\"kdName\":\"宅急送电子\",\"kddType\":3,\"mobile\":\"18037883930\",\"optionType\":1,\"orderNum\":1,\"packageId\":\"{{packageId}}\",\"printNum\":{{printNum}},\"receiverAddress\":\"崇贤街道崇贤镇莲花公寓5-1-502\",\"receiverCity\":\"杭州市\",\"receiverCounty\":\"余杭区\",\"receiverName\":\"郑磊\",\"receiverProvince\":\"浙江省\",\"sellerMemo\":\"\",\"tel\":\"\",\"tids\":\"{{tid}}\",\"weight\":0,\"ydNo\":\"{{ydId}}\"}]",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "pm.test(\"保存打印日志\", function () {\n    var jsonData = pm.response.json();\n    pm.expect(jsonData.data).to.eql(\"success\");\n    pm.expect(jsonData.result).to.eql(100);\n    \n});",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1514880058966,
+			"name": "batchSaveKDDLog",
+			"description": "",
+			"collectionId": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"responses": [],
+			"isFromCollection": true,
+			"collection_id": "d65475f9-b70f-61d5-d705-75595f748c3d"
+		},
+		{
+			"id": "73fd1836-18d3-7992-2826-e9403447ccf8",
+			"headers": "qnquerystring: 1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nCookie: _ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\n",
+			"headerData": [
+				{
+					"key": "qnquerystring",
+					"value": "1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Cookie",
+					"value": "_ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://zz.kdzs.com/printHandOrders/addOrderInfo?type=0&ordernumber=&recipient=刘颖&phone=18037883930&tel=15258851734&sendInfo=sendInfo:fahuoxinxi&senderid=869803&province=浙江省&city=杭州市&county=余杭区&receiveaddress=崇贤街道崇贤镇莲花公寓5-1-502&api_name=save_new_order",
+			"folder": "fb644cb9-bca8-f6a0-9cf6-f50a75d2dda0",
+			"queryParams": [
+				{
+					"key": "type",
+					"value": "0",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "ordernumber",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "recipient",
+					"value": "刘颖",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "phone",
+					"value": "18037883930",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "tel",
+					"value": "15258851734",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "sendInfo",
+					"value": "sendInfo:fahuoxinxi",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "senderid",
+					"value": "869803",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "province",
+					"value": "浙江省",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "city",
+					"value": "杭州市",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "county",
+					"value": "余杭区",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "receiveaddress",
+					"value": "崇贤街道崇贤镇莲花公寓5-1-502",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "api_name",
+					"value": "save_new_order",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": "pm.test(\"单条手动新建-固话填写手机号\", function () {\n    pm.expect(pm.response.text()).to.include(\"success\");\n});\n",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1514882730017,
+			"name": "单条手动新建-固话填写手机号",
+			"description": "",
+			"collectionId": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"responses": [],
+			"isFromCollection": true,
+			"collection_id": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"collectionRequestId": "d31b855d-de12-302e-f0ed-ccaa8438ef91"
+		},
+		{
+			"id": "76873469-172f-c7cc-e3b5-5df940215ef9",
+			"headers": "Cookie: _ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nqnquerystring: 1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "zz.kdzs.com/print/getPrintNum",
+			"folder": "768e2334-457b-ed04-8958-cce132a459a5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "count",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "printType",
+					"value": "kdd",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "api_name",
+					"value": "get_print_number",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data = JSON.parse(responseBody);\nif(data.result ==100){\n  tests[\"获取打印序号-成功\"] = true;\n  postman.setEnvironmentVariable(\"printNum\", data.data.printNum);\n}\nelse{\n  tests[\"获取打印序号-失败\"] = false;}",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1514880036886,
+			"name": "print/getPrintNum",
+			"description": "",
+			"collectionId": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"responses": [],
+			"isFromCollection": true,
+			"collection_id": "d65475f9-b70f-61d5-d705-75595f748c3d"
+		},
+		{
+			"id": "c1b07492-c174-0a52-50a5-5a6e0c9add28",
+			"headers": "Cookie: _ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nqnquerystring: 1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "zz.kdzs.com/printHandOrders/searchOrderInfo?orderState=-1&startdate=2017-10-25 00:00:00&enddate=2019-11-01 23:59:59&random=0.28028556844219565&printType=0&pageIndex=1&pageCount=30",
+			"folder": "768e2334-457b-ed04-8958-cce132a459a5",
+			"queryParams": [
+				{
+					"key": "orderState",
+					"value": "-1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "startdate",
+					"value": "2017-10-25 00:00:00",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "enddate",
+					"value": "2019-11-01 23:59:59",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "random",
+					"value": "0.28028556844219565",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "printType",
+					"value": "0",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "pageIndex",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "pageCount",
+					"value": "30",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "urlencoded",
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      postman.setEnvironmentVariable(\"tid\", data.data.list[0].tid);\n      tests[\"获取测试订单成功\"] = true;     \n    }\n    else{\n         tests[\"获取测试订单失败\"] = false;     \n    }\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1514880208899,
+			"name": "获取刚导入订单的订单编号",
+			"description": "",
+			"collectionId": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"responses": [],
+			"isFromCollection": true,
+			"collection_id": "d65475f9-b70f-61d5-d705-75595f748c3d"
+		},
+		{
+			"id": "c3740e23-195a-e53c-5efe-442caf19b193",
+			"headers": "Cookie: _ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nContent-Type: application/x-www-form-urlencode\nqnquerystring: 1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencode",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "zz.kdzs.com/printHandOrders/updateOrderState",
+			"folder": "768e2334-457b-ed04-8958-cce132a459a5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "exName",
+					"value": "宅急送电子",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "isYunzhan",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "kddType",
+					"value": "3",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "printList",
+					"value": "[{\"tid\":\"{{tid}}\",\"exNumber\":\"{{ydId}}\"}]",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "api_name",
+					"value": "mark_hander_print_status",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "pm.test(\"更新订单状态\", function () {\n    var jsonData = pm.response.json();\n    pm.expect(jsonData.data).to.eql(\"success\");\n    pm.expect(jsonData.result).to.eql(100);\n});",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1514880011431,
+			"name": "updateOrderState",
+			"description": "",
+			"collectionId": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"responses": [],
+			"isFromCollection": true,
+			"collection_id": "d65475f9-b70f-61d5-d705-75595f748c3d"
+		},
+		{
+			"id": "c94df9f2-18e6-f99e-7c12-a18e571b3a48",
+			"headers": "Cookie: _ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nqnquerystring: 1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=2670370501702; 136738_136738_kdzszz=9006DA312A9F339B69AB2E7332F503FFDB392153DB4458159D6D0EAFEEBDC5621B55AE9B9E8F6C41ED18FA533775A67C226BBF74D33EC464322ECBEA3A856BCB26761ABFDE86B82D0A60433F2F9CFE38; JSESSIONID=22C562232CE5788793C33BB1104B8A3A; 15_15_kdzszz=5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1510832115_15_15_5FEE4DB05DACC2ADF1033FA2596E11A45DA4D3D4824A66D11E82316A6D2672048CE4A5C9832AE10D7A2498AA072A1CCA224D9A78BC608A4C15D1437B408FDC92",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "zz.kdzs.com/elec/getElecYdNo",
+			"folder": "768e2334-457b-ed04-8958-cce132a459a5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "getNew",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "elecNoCount",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "kdInfo",
+					"value": "{\"kdCode\":\"ZJS\",\"kdId\":203,\"kdName\":\"宅急送电子\",\"useTaoBaoId\":15,\"branchCode\":\"ZJS\",\"branchName\":\"\",\"styleId\":2,\"templateUrl\":\"https://cloudprint.cainiao.com/template\"}",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "tradeInfo",
+					"value": "{\"buyerMessage\":\"\",\"buyerNick\":\"\",\"mobile\":\"18037883930\",\"nums\":1,\"receiverAddress\":\"崇贤街道崇贤镇莲花公寓5-1-502\",\"receiverCity\":\"杭州市\",\"receiverCounty\":\"余杭区\",\"receiverName\":\"郑磊\",\"receiverProvince\":\"浙江省\",\"tel\":\"\",\"tids\":\"{{tid}}\",\"orders\":[{\"name\":\"sendInfo:fahuoxinxi\",\"count\":1}],\"weight\":0,\"sellerFlag\":0,\"optionType\":1,\"packageId\":-1,\"senderAddressDetail\":\"建国路金地中心\",\"senderArea\":\"朝阳区\",\"senderCity\":\"北京市\",\"senderProvince\":\"北京\",\"senderTown\":\"\",\"senderMobile\":\"13476904612\",\"senderName\":\"柳柳ing\",\"kddType\":3,\"isCod\":0,\"codPrice\":0,\"payAmount\":0,\"info\":\"sendInfo:fahuoxinxi\",\"sourceId\":1,\"sellerMome\":\"\",\"sellerMemo\":\"\"}",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data = JSON.parse(responseBody);\r\nif(data.result ==100){\r\n  tests[\"申请新单号成功\"] = true;\r\n  postman.setEnvironmentVariable(\"ydId\", data.data.ydId);\r\n  postman.setEnvironmentVariable(\"packageId\", data.data.packageId);  \r\n}\r\nelse{\r\n  tests[\"申请新单号失败\"] = false;}",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1514879984955,
+			"name": "getElecYdNo",
+			"description": "",
+			"collectionId": "d65475f9-b70f-61d5-d705-75595f748c3d",
+			"responses": [],
+			"isFromCollection": true,
+			"collection_id": "d65475f9-b70f-61d5-d705-75595f748c3d"
+		}
+	]
+}
