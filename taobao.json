@@ -1,0 +1,1442 @@
+{
+	"id": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+	"name": "testtaobao",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"description": "",
+			"folder": "6033bb64-4000-af63-80c1-6a71bf9cede6",
+			"folders_order": [],
+			"id": "ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+			"name": "发件人设置",
+			"order": [
+				"0d3a3d9f-ea27-0e96-a443-ee20f90c5b12",
+				"43cea2a8-d768-c86c-5b78-1d0620bba507",
+				"8332dc91-f5d7-7229-c5a6-8885d259e441",
+				"2b358042-0ff9-54dc-46f8-f614d6d0827d",
+				"65d9f6ef-211d-59f8-79a4-ac6dd6f83648",
+				"10a6071e-2a15-ebb1-2cf4-4d29a444e1f6",
+				"0d2ce136-5c15-3d30-9724-a32ed3041550",
+				"06dab2d5-4a63-fa17-8f01-7c661f75ed1f"
+			],
+			"owner": "2821561"
+		},
+		{
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"description": "",
+			"folders_order": [
+				"ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+				"afc7525f-f8f3-73a4-df88-7950cca28d34",
+				"903b2678-5172-a837-2676-a929ae8361ed"
+			],
+			"id": "6033bb64-4000-af63-80c1-6a71bf9cede6",
+			"name": "手工订单模块",
+			"order": [],
+			"owner": "2821561"
+		},
+		{
+			"name": "打印流程",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"order": [
+				"5523c197-3c7d-b87b-fd04-fd068826c300",
+				"0d0bbd6d-b6da-d3a3-8d98-85b57b5cb0e1",
+				"66ecfe80-0fe9-ec09-1257-464e726819de",
+				"1ddff765-7bbd-0f66-e134-edef68fdd140",
+				"2ecbbc74-add4-7108-df30-810efb1d9430",
+				"77d968c5-df7e-a622-41ea-67ef14d13906",
+				"4fcffc27-7ca2-6b54-54bb-e6271c87d035",
+				"bc333c2d-eaa8-dba5-c786-fb1468a03cb2",
+				"613523cb-b11b-cef8-f681-a7138bdada84"
+			],
+			"owner": "2821561",
+			"folder": "6033bb64-4000-af63-80c1-6a71bf9cede6",
+			"folders_order": [],
+			"id": "903b2678-5172-a837-2676-a929ae8361ed"
+		},
+		{
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"description": "",
+			"folder": "6033bb64-4000-af63-80c1-6a71bf9cede6",
+			"folders_order": [],
+			"id": "afc7525f-f8f3-73a4-df88-7950cca28d34",
+			"name": "订单处理",
+			"order": [
+				"2f2bd9ef-49df-cb2f-16a1-54e4d9bf62a0",
+				"e1ad269c-bbd0-9c98-07f1-f9fac2a53654",
+				"632ba6f8-d15f-856f-7fd9-8143f8d6f255",
+				"04710b49-843d-e76e-d83d-5da78d826868",
+				"2a254854-f09c-5978-2dba-9a50230701e2",
+				"cd4ce81d-ce76-bac0-34ce-e4ba9f3e3b88",
+				"7a9dbc21-ea76-07a6-2e92-41a19ebbf7be"
+			],
+			"owner": "2821561"
+		}
+	],
+	"folders_order": [
+		"6033bb64-4000-af63-80c1-6a71bf9cede6"
+	],
+	"timestamp": 1515154275195,
+	"owner": "2821561",
+	"public": false,
+	"requests": [
+		{
+			"id": "04710b49-843d-e76e-d83d-5da78d826868",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/updateSellerMemoByTid",
+			"folder": "afc7525f-f8f3-73a4-df88-7950cca28d34",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "sellerMemo",
+					"type": "text",
+					"value": "测试接口测试接口"
+				},
+				{
+					"description": "",
+					"enabled": true,
+					"key": "tid",
+					"type": "text",
+					"value": "{{tidhand}}"
+				},
+				{
+					"description": "",
+					"enabled": true,
+					"key": "api_name",
+					"type": "text",
+					"value": "modify_hander_memo"
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"修改订单备注成功\"] = true;     \n    }\nelse{\n    tests[\"修改订单备注失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515130973910,
+			"name": "修改订单备注",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "68433205-d11f-da04-df94-1a210a625820",
+			"timestamp": null
+		},
+		{
+			"id": "06dab2d5-4a63-fa17-8f01-7c661f75ed1f",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"currentHelper": "normal",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "senderIds",
+					"type": "text",
+					"value": "{{senderId}}"
+				}
+			],
+			"dataMode": "urlencoded",
+			"description": "",
+			"folder": "ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"method": "POST",
+			"name": "删除发件人",
+			"pathVariableData": [],
+			"pathVariables": {},
+			"preRequestScript": null,
+			"queryParams": [],
+			"responses": [],
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"删除发件人成功\"] = true;     \n    }\nelse{\n    tests[\"删除发件人失败\"]=false;   \n}",
+			"time": 1515053807870,
+			"timestamp": "1970-01-01T00:00:00.000Z",
+			"url": "http://handorder.kuaidizs.com/setFjrKdd/batchDelHandFjr",
+			"version": 2
+		},
+		{
+			"id": "0d0bbd6d-b6da-d3a3-8d98-85b57b5cb0e1",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/searchOrderInfo",
+			"folder": "903b2678-5172-a837-2676-a929ae8361ed",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "searchInfo",
+					"value": "{\"pageNo\":\"1\",\"pageSize\":50,\"printFlag\":\"-1\",\"receiveName\":\"郑成功测试接口自动化\",\"receivePhone\":\"13618686846\",\"receiveAddress\":\"\",\"senderName\":\"\",\"exName\":\"\",\"endTime\":\"2018-01-05 23:59:59\",\"startTime\":\"2017-12-05 00:00:00\",\"expressNo\":\"\",\"sendinfo\":\"\",\"tid\":\"\",\"senderId\":0}",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      postman.setEnvironmentVariable(\"tid\", data.data.orderList[0].tid);\n      tests[\"获取打印订单id成功\"] = true;     \n    }\n    else{\n         tests[\"获取打印订单订单id失败\"] = false;     \n    }",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1515154212397,
+			"name": "获取打印订单id",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": []
+		},
+		{
+			"id": "0d2ce136-5c15-3d30-9724-a32ed3041550",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"currentHelper": "normal",
+			"data": null,
+			"dataMode": "params",
+			"description": "",
+			"folder": "ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\n",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"method": "GET",
+			"name": "获取删除订单id",
+			"pathVariableData": [],
+			"pathVariables": {},
+			"preRequestScript": null,
+			"queryParams": [
+				{
+					"key": "name",
+					"value": "%E7%81%AB%E6%98%9F%E4%BA%BA%E6%B5%8B%E8%AF%95",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "phone",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "address",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "api_name",
+					"value": "manual_search_sender",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"responses": [],
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      postman.setEnvironmentVariable(\"senderId\", data.data.list[0].senderId);\n      tests[\"获取设置默认发件人订单id成功\"] = true;     \n    }\n    else{\n         tests[\"获取设置默认发件人订单id失败\"] = false;     \n    }\n",
+			"time": 1515061403176,
+			"timestamp": "1970-01-01T00:00:00.000Z",
+			"url": "http://handorder.kuaidizs.com/setFjrKdd/getHandFjrKddList?name=%E7%81%AB%E6%98%9F%E4%BA%BA%E6%B5%8B%E8%AF%95&phone=&address=&api_name=manual_search_sender",
+			"version": 2
+		},
+		{
+			"id": "0d3a3d9f-ea27-0e96-a443-ee20f90c5b12",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"currentHelper": "normal",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "pageNo",
+					"type": "text",
+					"value": "1"
+				},
+				{
+					"description": "",
+					"enabled": true,
+					"key": "pageSize",
+					"type": "text",
+					"value": "5"
+				}
+			],
+			"dataMode": "urlencoded",
+			"description": "",
+			"folder": "ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"method": "POST",
+			"name": "获取手工单发件人列表",
+			"pathVariableData": [],
+			"pathVariables": {},
+			"preRequestScript": null,
+			"queryParams": [],
+			"responses": [],
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"获取手动单发件列表人成功\"] = true;     \n    }\nelse{\n    tests[\"获取手工单发件人列表失败\"]=false;   \n}",
+			"time": 1515045547764,
+			"timestamp": "1970-01-01T00:00:00.000Z",
+			"url": "http://handorder.kuaidizs.com/setFjrKdd/getHandFjrKddList",
+			"version": 2,
+			"collectionRequestId": "21d2e90b-07d7-00d0-4755-48133179e359"
+		},
+		{
+			"id": "10a6071e-2a15-ebb1-2cf4-4d29a444e1f6",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"currentHelper": "normal",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "senderInfo",
+					"type": "text",
+					"value": "{\"province\":\"内蒙古自治区\",\"district\":\"松山区\",\"city\":\"赤峰市\",\"address\":\"滨湖镇藏龙大道113号\",\"name\":\"火星人测试\",\"phone\":\"15258851734\",\"telPhone\":\"0288931390\",\"sign\":\"我就是我\"}"
+				}
+			],
+			"dataMode": "params",
+			"description": "",
+			"folder": "ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\n",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"method": "POST",
+			"name": "新增手工单发件人-普通",
+			"pathVariableData": [],
+			"pathVariables": {},
+			"preRequestScript": null,
+			"queryParams": [],
+			"responses": [],
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"新增发件人普通成功\"] = true;     \n    }\nelse{\n    tests[\"新增发件人普通失败\"]=false;   \n}",
+			"time": 1515061328739,
+			"timestamp": "1970-01-01T00:00:00.000Z",
+			"url": "http://handorder.kuaidizs.com/setFjrKdd/saveOrUpdFjrKddHand",
+			"version": 2
+		},
+		{
+			"id": "1ddff765-7bbd-0f66-e134-edef68fdd140",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/twcnLogistics/getBatchWaybillBranch?exIds=213&exCodes=YTO&modeListShowIds=52391&api_name=get_twcn_wd_set",
+			"folder": "903b2678-5172-a837-2676-a929ae8361ed",
+			"queryParams": [
+				{
+					"key": "exIds",
+					"value": "213",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "exCodes",
+					"value": "YTO",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "modeListShowIds",
+					"value": "52391",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "api_name",
+					"value": "get_twcn_wd_set",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"获取淘外菜鸟模块及剩余单号成功\"] = true;   \n    }\nelse{\n    tests[\"获取淘外菜鸟模块及剩余单号失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515150881374,
+			"name": "获取淘外菜鸟模块及剩余单号",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "1d382850-79ce-047c-f938-654605850838",
+			"timestamp": null,
+			"folderId": "2f08afee-2093-943d-a441-5d1557462479"
+		},
+		{
+			"id": "2a254854-f09c-5978-2dba-9a50230701e2",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/deleteOrders",
+			"folder": "afc7525f-f8f3-73a4-df88-7950cca28d34",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "tid",
+					"type": "text",
+					"value": "{{tidhand}}"
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"删除手动订单成功\"] = true;   \n    }\nelse{\n    tests[\"删除手动订单失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515132768302,
+			"name": "删除手工订单",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"timestamp": null,
+			"isFromCollection": true,
+			"collectionRequestId": "35cdf595-3031-bb0d-977c-1c2175efb929"
+		},
+		{
+			"id": "2b358042-0ff9-54dc-46f8-f614d6d0827d",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"currentHelper": "normal",
+			"data": null,
+			"dataMode": "params",
+			"description": "",
+			"folder": "ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\n",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"method": "GET",
+			"name": "获取设置默认发件人id",
+			"pathVariableData": [],
+			"pathVariables": {},
+			"preRequestScript": null,
+			"queryParams": [
+				{
+					"key": "name",
+					"value": "%E5%B0%8F%E4%BB%99%E5%A5%B3",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "phone",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "address",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "api_name",
+					"value": "manual_search_sender",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"responses": [],
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      postman.setEnvironmentVariable(\"senderIds\", data.data.list[0].senderId);\n      tests[\"获取设置默认发件人订单id成功\"] = true;     \n    }\n    else{\n         tests[\"获取设置默认发件人订单id失败\"] = false;     \n    }\n",
+			"time": 1515117314823,
+			"timestamp": "1970-01-01T00:00:00.000Z",
+			"url": "http://handorder.kuaidizs.com/setFjrKdd/getHandFjrKddList?name=%E5%B0%8F%E4%BB%99%E5%A5%B3&phone=&address=&api_name=manual_search_sender",
+			"collectionRequestId": "fe03a681-3392-2f28-8de8-06e81b472ffa"
+		},
+		{
+			"id": "2ecbbc74-add4-7108-df30-810efb1d9430",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/elec/getElecYdNo",
+			"folder": "903b2678-5172-a837-2676-a929ae8361ed",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "elecNoCount",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "kdInfo",
+					"value": "{\"kdCode\":\"YTO\",\"kdId\":213,\"kdName\":\"圆通电子接口\",\"useTaoBaoId\":\"1721500167\",\"branchCode\":\"100132\",\"branchName\":\"\",\"styleId\":2,\"templateUrl\":\"https://cloudprint.cainiao.com/template\"}",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "tradeInfo",
+					"value": "{\"buyerMessage\":\"\",\"buyerNick\":\"\",\"mobile\":\"13618686846\",\"nums\":1,\"receiverAddress\":\"青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\",\"receiverCity\":\"阿勒泰地区\",\"receiverCounty\":\"青河县\",\"receiverName\":\"郑成功测试接口自动化\",\"receiverProvince\":\"新疆维吾尔自治区\",\"tel\":\"\",\"tids\":\"{{tid}}\",\"orders\":[{\"name\":\"商品\",\"count\":1}],\"weight\":0,\"sellerFlag\":0,\"taobaoId\":\"1721500167\",\"optionType\":4,\"packageId\":-1,\"senderAddressDetail\":\"万达广场12号楼905\",\"senderArea\":\"朝阳区\",\"senderCity\":\"北京市\",\"senderProvince\":\"北京\",\"senderTown\":\"\",\"senderMobile\":\"15258851734\",\"senderName\":\"小仙女\",\"kddType\":3,\"isCod\":0,\"codPrice\":0,\"info\":\"\",\"sourceId\":1,\"sellerMome\":\"\",\"printSenderName\":\"小仙女\",\"realTid\":\"{{tid}}\"}",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      postman.setEnvironmentVariable(\"ydId\", data.data.ydId);\n       postman.setEnvironmentVariable(\"packageId\", data.data.packageId);\n      tests[\"获取单号成功\"] = true;     \n    }\n    else{\n         tests[\"获取单号失败\"] = false;     \n    }\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1515154209989,
+			"name": "获取单号",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": []
+		},
+		{
+			"id": "2f2bd9ef-49df-cb2f-16a1-54e4d9bf62a0",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/saveOrUpdOrderInfo",
+			"folder": "afc7525f-f8f3-73a4-df88-7950cca28d34",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "orderInfo",
+					"type": "text",
+					"value": "{\"receiverName\":\"郑成功测试\",\"receiverPhone\":\"13588386289\",\"receiverTel\":\"0288931390\",\"senderId\":\"{{senderIds}}\",\"shipContent\":\"\",\"tid\":\"\",\"allAddress\":\"新疆维吾尔自治区 阿勒泰地区 青河县 青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\",\"receiverProvince\":\"新疆维吾尔自治区\",\"receiverCity\":\"阿勒泰地区\",\"receiverArea\":\"青河县\",\"receiverDetail\":\"青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\"}"
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"新建手工订单成功\"] = true;   \n    }\nelse{\n    tests[\"新建工订单失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515131499485,
+			"name": "新建用于删除的手工订单",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"timestamp": null,
+			"isFromCollection": true,
+			"collectionRequestId": "54338c4c-9a5f-0405-a876-e4659749b821"
+		},
+		{
+			"id": "43cea2a8-d768-c86c-5b78-1d0620bba507",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"currentHelper": "normal",
+			"data": [],
+			"dataMode": "urlencoded",
+			"description": "",
+			"folder": "ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"method": "POST",
+			"name": "默认发件人填充",
+			"pathVariableData": [],
+			"pathVariables": {},
+			"preRequestScript": null,
+			"queryParams": [],
+			"responses": [],
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"默认发件人填充成功\"] = true;     \n    }\nelse{\n    tests[\"默认发件人填充失败\"]=false;   \n}",
+			"time": 1515045544298,
+			"timestamp": "1970-01-01T00:00:00.000Z",
+			"url": "http://handorder.kuaidizs.com/handOrderSet/get",
+			"version": 2
+		},
+		{
+			"id": "4fcffc27-7ca2-6b54-54bb-e6271c87d035",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/print/getPrintNum",
+			"folder": "903b2678-5172-a837-2676-a929ae8361ed",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "count",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "printType",
+					"value": "kdd",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      postman.setEnvironmentVariable(\"printNum\", data.data.printNum);\n      tests[\"获取设置默认发件人订单id成功\"] = true;     \n    }\n    else{\n         tests[\"获取设置默认发件人订单id失败\"] = false;     \n    }\n",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515151986447,
+			"name": "获取打印序号",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "e3a5b096-2b7f-8987-ca5f-c5fa01d9bb6d",
+			"timestamp": null
+		},
+		{
+			"id": "5523c197-3c7d-b87b-fd04-fd068826c300",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/saveOrUpdOrderInfo",
+			"folder": "903b2678-5172-a837-2676-a929ae8361ed",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "orderInfo",
+					"type": "text",
+					"value": "{\"receiverName\":\"郑成功测试接口自动化\",\"receiverPhone\":\"13618686846\",\"receiverTel\":\"\",\"senderId\":\"{{senderIds}}\",\"shipContent\":\"\",\"tid\":\"\",\"allAddress\":\"新疆维吾尔自治区 阿勒泰地区 青河县 青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\",\"receiverProvince\":\"新疆维吾尔自治区\",\"receiverCity\":\"阿勒泰地区\",\"receiverArea\":\"青河县\",\"receiverDetail\":\"青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\"}"
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"新建用于清空的手工订单成功\"] = true;   \n    }\nelse{\n    tests[\"新建用于清空的手工订单失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515149387691,
+			"name": "新建用于打印的手工订单",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "a52951ac-f640-55e0-d235-95229e47be18",
+			"timestamp": null
+		},
+		{
+			"id": "613523cb-b11b-cef8-f681-a7138bdada84",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/print/batchSaveKDDLog",
+			"folder": "903b2678-5172-a837-2676-a929ae8361ed",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "tradeInfo",
+					"value": "[{\"info\":\"\",\"infoCollection\":\"{\\\"rc\\\":\\\"962-740 001\\\",\\\"sn\\\":\\\"青河\\\",\\\"jbm\\\":\\\"991001\\\",\\\"jbd\\\":\\\"\\\"}\",\"kdCode\":\"YTO\",\"kdId\":213,\"kdName\":\"圆通电子接口\",\"kddType\":3,\"mobile\":\"13618686846\",\"optionType\":4,\"orderNum\":1,\"packageId\":\"{{packageId}}\",\"printNum\":{{printNum}},\"receiverAddress\":\"青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\",\"receiverCity\":\"阿勒泰地区\",\"receiverCounty\":\"青河县\",\"receiverName\":\"郑成功测试接口自动化\",\"receiverProvince\":\"新疆维吾尔自治区\",\"sellerMemo\":\"\",\"taobaoId\":\"1721500167\",\"tel\":\"\",\"tids\":\"{{tid}}\",\"weight\":0,\"ydNo\":\"{{ydId}}\",\"payment\":0,\"sendName\":\"小仙女\"}]",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"打印日志保存成功\"] = true;   \n    }\nelse{\n    tests[\"打印日志保存失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515152454463,
+			"name": "保存打印日志",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "331d14cd-5f76-b0b3-50cd-0e9af7f7849d",
+			"timestamp": null,
+			"folderId": "2f08afee-2093-943d-a441-5d1557462479"
+		},
+		{
+			"id": "632ba6f8-d15f-856f-7fd9-8143f8d6f255",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/saveOrUpdOrderInfo",
+			"folder": "afc7525f-f8f3-73a4-df88-7950cca28d34",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "orderInfo",
+					"type": "text",
+					"value": "{\"receiverPhone\":\"13588386281\",\"receiverTel\":\"0288931391\",\"receiverName\":\"郑成功测试1\",\"receiverCity\":\"汕头市\",\"receiverProvince\":\"广东省\",\"receiverArea\":\"潮阳区\",\"shipContent\":\"测试测试测试重要的事情说三遍\",\"receiverDetail\":\"青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\",\"id\":\"{{idhand}}\",\"tid\":\"{{tidhand}}\"}"
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"手工订单修改成功\"] = true;     \n    }\nelse{\n    tests[\"手工订单修改失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515132323602,
+			"name": "手工订单修改",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"timestamp": null,
+			"isFromCollection": true,
+			"collectionRequestId": "0c5ee832-3e53-efe7-d806-e074b000a35d",
+			"folderId": "fce81c3f-3ebd-fcf4-4d38-76adf22a5b01"
+		},
+		{
+			"id": "65d9f6ef-211d-59f8-79a4-ac6dd6f83648",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"currentHelper": "normal",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "senderId",
+					"type": "text",
+					"value": "{{senderIds}}"
+				},
+				{
+					"description": "",
+					"enabled": true,
+					"key": "senderType",
+					"type": "text",
+					"value": "1"
+				}
+			],
+			"dataMode": "params",
+			"description": "",
+			"folder": "ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\n",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"method": "POST",
+			"name": "设置默认发件人",
+			"pathVariableData": [],
+			"pathVariables": {},
+			"preRequestScript": null,
+			"queryParams": [],
+			"responses": [],
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"设置默认发件人成功\"] = true;     \n    }\nelse{\n    tests[\"设置默认发现件失败\"]=false;   \n}",
+			"time": 1515060879261,
+			"timestamp": "1970-01-01T00:00:00.000Z",
+			"url": "http://handorder.kuaidizs.com/setFjrKdd/setDefaultHandFjrKdd"
+		},
+		{
+			"id": "66ecfe80-0fe9-ec09-1257-464e726819de",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/twcnLogistics/getLogisticsUserSetting",
+			"folder": "903b2678-5172-a837-2676-a929ae8361ed",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "exId",
+					"value": "52202",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "exCode",
+					"value": "YTO",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"获取默认网点成功\"] = true;   \n    }\nelse{\n    tests[\"获取默认网点失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1515154214403,
+			"name": "获取申请单号默认地址",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": []
+		},
+		{
+			"id": "77d968c5-df7e-a622-41ea-67ef14d13906",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/updateOrderState",
+			"folder": "903b2678-5172-a837-2676-a929ae8361ed",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "exName",
+					"value": "圆通电子接口",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "isYunzhan",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "kddType",
+					"value": "3",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "printList",
+					"value": "[{\"tid\":\"{{tid}}\",\"exNumber\":\"{{ydId}}\"}]",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"更新打印标记成功\"] = true;   \n    }\nelse{\n    tests[\"更新打印标记失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515149900428,
+			"name": "更新打印标记",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "6181cf82-5990-c6ac-d677-c7983bdf40f8",
+			"timestamp": null,
+			"folderId": "2f08afee-2093-943d-a441-5d1557462479"
+		},
+		{
+			"id": "7a9dbc21-ea76-07a6-2e92-41a19ebbf7be",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/deleteByCondition",
+			"folder": "afc7525f-f8f3-73a4-df88-7950cca28d34",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "searchInfo",
+					"value": "{\"pageNo\":\"1\",\"pageSize\":200,\"printFlag\":\"-1\",\"receiveName\":\"郑成功测试接口\",\"receivePhone\":\"13618686846\",\"receiveAddress\":\"\",\"senderName\":\"\",\"exName\":\"\",\"endTime\":\"2019-01-05 23:59:59\",\"startTime\":\"2017-12-05 00:00:00\",\"expressNo\":\"\",\"sendinfo\":\"\",\"tid\":\"\",\"senderId\":0}",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"批量清空手工单成功\"] = true;     \n    }\nelse{\n    tests[\"批量清空手工单失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515135572118,
+			"name": "批量清空手工单",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"timestamp": null,
+			"isFromCollection": true,
+			"collectionRequestId": "24bdbc09-bc78-503a-2833-65a7b9ed00f6"
+		},
+		{
+			"id": "8332dc91-f5d7-7229-c5a6-8885d259e441",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"currentHelper": "normal",
+			"data": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "senderInfo",
+					"type": "text",
+					"value": "{\"province\":\"内蒙古自治区\",\"district\":\"科尔沁左翼后旗\",\"city\":\"通辽市\",\"address\":\"藏龙大道223号\",\"name\":\"小仙女\",\"phone\":\"15258851734\",\"telPhone\":\"0288931390\",\"sign\":\"123456\"}"
+				}
+			],
+			"dataMode": "params",
+			"description": "",
+			"folder": "ca8c0763-c921-09c4-89a7-b4fcc8f1152c",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\n",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"method": "POST",
+			"name": "保存/新增手工单发件人",
+			"pathVariableData": [],
+			"pathVariables": {},
+			"preRequestScript": null,
+			"queryParams": [],
+			"responses": [],
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"新增发件人成功\"] = true;     \n    }\nelse{\n    tests[\"新增发件人失败\"]=false;   \n}",
+			"time": 1515060510225,
+			"timestamp": "1970-01-01T00:00:00.000Z",
+			"url": "http://handorder.kuaidizs.com/setFjrKdd/saveOrUpdFjrKddHand",
+			"version": 2
+		},
+		{
+			"id": "bc333c2d-eaa8-dba5-c786-fb1468a03cb2",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printLog/preSavePrintLog",
+			"folder": "903b2678-5172-a837-2676-a929ae8361ed",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "logList",
+					"value": "[{\"info\":\"\",\"infoCollection\":\"{\\\"rc\\\":\\\"962-740 001\\\",\\\"sn\\\":\\\"青河\\\",\\\"jbm\\\":\\\"991001\\\",\\\"jbd\\\":\\\"\\\"}\",\"kdCode\":\"YTO\",\"kdId\":213,\"kdName\":\"圆通电子接口\",\"kddType\":3,\"mobile\":\"13618686846\",\"optionType\":4,\"orderNum\":1,\"packageId\":\"{{packageId}}\",\"printNum\":1374,\"receiverAddress\":\"青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\",\"receiverCity\":\"阿勒泰地区\",\"receiverCounty\":\"青河县\",\"receiverName\":\"郑成功测试接口自动化\",\"receiverProvince\":\"新疆维吾尔自治区\",\"sellerMemo\":\"\",\"taobaoId\":\"1721500167\",\"tel\":\"\",\"tids\":\"{{tid}}\",\"weight\":0,\"ydNo\":\"{{ydId}}\",\"payment\":0,\"sendName\":\"小仙女\"}]",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "printDate",
+					"value": "2018-01-05 18:50:03",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"打印日志预存成功\"] = true;   \n    }\nelse{\n    tests[\"打印日志预存失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515153408805,
+			"name": "打印日志预存",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"timestamp": null,
+			"isFromCollection": true,
+			"collectionRequestId": "274786f8-2e81-32c8-e365-2516546047c8"
+		},
+		{
+			"id": "cd4ce81d-ce76-bac0-34ce-e4ba9f3e3b88",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/saveOrUpdOrderInfo",
+			"folder": "afc7525f-f8f3-73a4-df88-7950cca28d34",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "orderInfo",
+					"value": "{\"receiverName\":\"郑成功测试接口\",\"receiverPhone\":\"13618686846\",\"receiverTel\":\"\",\"senderId\":\"{{senderIds}}\",\"shipContent\":\"\",\"tid\":\"\",\"allAddress\":\"新疆维吾尔自治区 阿勒泰地区 青河县 青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\",\"receiverProvince\":\"新疆维吾尔自治区\",\"receiverCity\":\"阿勒泰地区\",\"receiverArea\":\"青河县\",\"receiverDetail\":\"青河镇新疆维吾尔自治区阿勒泰地区青河阿热勒托别镇科克塔斯村委会\"}",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      tests[\"新建用于清空的手工订单成功\"] = true;   \n    }\nelse{\n    tests[\"新建用于清空的手工订单失败\"]=false;   \n}",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515135575300,
+			"name": "新建用于清空的手工订单",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "cba87ad1-9c20-3884-bb3d-38d02b009014",
+			"timestamp": null
+		},
+		{
+			"id": "e1ad269c-bbd0-9c98-07f1-f9fac2a53654",
+			"headers": "Cookie: _ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604\nqnquerystring: 1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Cookie",
+					"value": "_ati=4218040162662; 1721500167_72153591=4d02a54e5572cf3ea1d5fbb1bca87e4f8f39611704bf6a93b09a8637c789728bf70be67107696d070c55a76700e07604; 12158997_tj=tj; JSESSIONID=D4130D886FBA70AC4763DCF285F50DFB; 1721500167_kdzsalibaba_hand=00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; visitorId=1721500167; cookieid=074397ff-6392-419c-a961-6994efc5e760; kdzs_nick=1721500167; 1721500167_kdzs_nick=1721500167; rsid_1721500167=1721500167_00e35af45013e7ca80fe7d3f872c654d8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7; rsid_1721500167=1721500167_4d02a54e5572cf3e9cfee9879d1aa0a728f32ea372718a28b09a8637c789728bf70be67107696d070c55a76700e07604",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "qnquerystring",
+					"value": "1721500167_00e35af45013e7ca3d0ec94dfac0c24c8dfa3a7341da85d9640a8826a1fa72172f9609fd55d06953d16f13566b4951c7",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "http://handorder.kuaidizs.com/printHandOrders/searchOrderInfo",
+			"folder": "afc7525f-f8f3-73a4-df88-7950cca28d34",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "searchInfo",
+					"value": "{\"pageNo\":\"1\",\"pageSize\":200,\"printFlag\":\"-1\",\"receiveName\":\"郑成功测试\",\"receivePhone\":\"13588386289\",\"receiveAddress\":\"\",\"senderName\":\"\",\"exName\":\"\",\"endTime\":\"2018-01-05 23:59:59\",\"startTime\":\"2017-12-05 00:00:00\",\"expressNo\":\"\",\"sendinfo\":\"\",\"tid\":\"\",\"senderId\":0}",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "var data=JSON.parse(responseBody);\n    if(data.result == 100) \n    {\n      postman.setEnvironmentVariable(\"tidhand\", data.data.orderList[0].tid);\n      postman.setEnvironmentVariable(\"idhand\", data.data.orderList[0].id);\n      tests[\"获取设置默认发件人订单id成功\"] = true;     \n    }\n    else{\n         tests[\"获取设置默认发件人订单id失败\"] = false;     \n    }\n",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1515132775551,
+			"name": "手工单-查询，获取修改删除订单id",
+			"description": "",
+			"collectionId": "c9b7e2d8-1d51-98ad-b37a-0e8372fcc96f",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "18cfc149-9123-c4a3-e481-14f5e10880a6",
+			"timestamp": null
+		}
+	]
+}
